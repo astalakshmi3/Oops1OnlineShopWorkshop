@@ -25,7 +25,6 @@ public class Order {
         return products;
     }
 
-
     public void addProduct(Product product)
     {
         products.add(product);

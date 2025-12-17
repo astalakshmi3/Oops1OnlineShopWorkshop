@@ -9,7 +9,6 @@ public class Product {
         this.ProductName = productName;
         this.ProductPrice = productPrice;
     }
-
     public int getProductID() {
         return ProductID;
     }

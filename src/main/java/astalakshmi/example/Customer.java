@@ -32,5 +32,4 @@ public class Customer {
     public void setCustomerEmail(String customerEmail) {
         CustomerEmail = customerEmail;
     }
-
 }

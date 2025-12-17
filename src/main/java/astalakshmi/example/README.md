@@ -16,7 +16,6 @@
 
 ## UML Class Diagram (Conceptual)
 ## classDiagram
-  
 
 ```mermaid
 classDiagram
