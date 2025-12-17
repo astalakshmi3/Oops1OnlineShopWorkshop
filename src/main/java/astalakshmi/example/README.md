@@ -40,7 +40,6 @@ class Customer {
     Order "0..*" --> "1" Customer : belongsTo
     Order "1" --> "1..*" Product : contains
  ```
-
 ### Classes and Attributes:
 - **Customer**: Represents a customer with attributes like id, name, and email.
 - **Product**: Represents a product with attributes like id, name, and price.

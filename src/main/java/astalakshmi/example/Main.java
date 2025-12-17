@@ -13,7 +13,6 @@ Product pro7 = new Product(7, "Charger", 300.0);
 Product pro8 = new Product(8, "Mouse", 150.0);
 Product pro9 = new Product(9, "Planner", 400.0);
 Product pro10 = new Product(10, "USB Cable", 200.0);
-
 Order order1 = new Order(1, anna);
 order1.addProduct(pro1);
 order1.addProduct(pro2);
